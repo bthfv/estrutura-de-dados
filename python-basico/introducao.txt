@@ -1,0 +1,10 @@
+| Introdução ao python.
+    - criada em 1991 por guido van rossum.
+    - simples e de fácil aprendizado.
+    - portátil. (funciona em qualquer sistema operacional que tenha um interpretador python)
+    - possui recursos para desenvolvimento web.
+    - utilizada em inteligência artificial.
+    - utilizada em big data.
+    - utilizada em ciência de dados.
+    - utilizada em computação gráfica.
+    - uma linguagem bastante popular.
